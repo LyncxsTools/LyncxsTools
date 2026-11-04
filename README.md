@@ -123,15 +123,6 @@ testing = "100% shellcheck clean"
 
 </div>
 
-<!-- ═══════════════════════════ 3D CONTRIBUTIONS ═══════════════════════════ -->
-<h2 align="center">🗓️ 3D CONTRIBUTION CALENDAR</h2>
-
-<div align="center">
-
-![](./profile-3d-contrib/profile-blue.svg)
-
-</div>
-
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 <h2 align="center">🤝 CONTRIBUTE TO THE TOOLS</h2>
 
