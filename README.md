@@ -119,7 +119,7 @@ testing = "100% shellcheck clean"
 
 <div align="center">
 
-![](./profile-3d-contrib/profile-blue.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
