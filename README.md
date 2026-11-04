@@ -59,7 +59,7 @@ testing = "100% shellcheck clean"
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LyncxsTools&show_icons=true&hide_border=false&border_color=1E3A8A&border_radius=14&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=3B82F6&ring_color=3B82F6&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" width="100%"/>
+<img src="https://ghstats.dev/api/card?username=LyncxsTools&show_icons=true&hide_border=false&border_color=1E3A8A&border_radius=14&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=3B82F6&theme=dark" alt="GitHub stats" width="100%"/>
 
 </td>
 </tr>
@@ -101,7 +101,7 @@ testing = "100% shellcheck clean"
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LyncxsTools&hide_border=false&border_radius=14&background=0D1117&stroke=1E3A8A&ring=3B82F6&fire=06B6D4&currStreakNum=FFFFFF&currStreakLabel=60A5FA&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="Streak" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyncxsTools&layout=donut&hide_border=false&border_color=1E3A8A&border_radius=14&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Top languages" height="170"/>
+<img src="https://ghstats.dev/api/langs?username=LyncxsTools&layout=donut&hide_border=false&border_color=1E3A8A&border_radius=14&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&theme=dark" alt="Top languages" height="170"/>
 
 </div>
 
@@ -120,6 +120,15 @@ testing = "100% shellcheck clean"
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=LyncxsTools&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
+
+</div>
+
+<!-- ═══════════════════════════ 3D CONTRIBUTIONS ═══════════════════════════ -->
+<h2 align="center">🗓️ 3D CONTRIBUTION CALENDAR</h2>
+
+<div align="center">
+
+![](./profile-3d-contrib/profile-blue.svg)
 
 </div>
 
