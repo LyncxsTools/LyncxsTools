@@ -110,7 +110,7 @@ testing = "100% shellcheck clean"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LyncxsTools&custom_title=Tool%20Development%20Activity&bg_color=0D1117&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6&hide_border=true&radius=14" alt="Activity graph" width="100%"/>
+<img src="https://ghchart.rshah.org/60A5FA/LyncxsTools" alt="LyncxsTools's Contribution Graph" width="100%"/>
 
 </div>
 
@@ -119,7 +119,7 @@ testing = "100% shellcheck clean"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LyncxsTools&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
+<img src="./images/trophy.svg" alt="GitHub Trophies"/>
 
 </div>
 
